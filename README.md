@@ -32,6 +32,7 @@ Without attached connection hoses the following can occur:
 
 ## Copyright
 Copyright (c) 2019 [Wopster](https://github.com/stijnwop).
+Copyright (c) 2025 masm32 for FS25 version.
 All rights reserved.
 
 Special thanks to workflowsen for creating the icon!
